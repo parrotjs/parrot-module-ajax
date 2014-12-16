@@ -25,7 +25,12 @@
     "node": "*"
   },
   "homepage": "https://github.com/parrotjs/parrot-module-ajax",
-  "keywords": [],
+  "keywords": [
+    "parrot",
+    "ajax",
+    "backend",
+    "url"
+  ],
   "license": "MIT",
   "main": "./index.js",
   "repository": "parrotjs/parrot-module-ajax"

@@ -17,7 +17,12 @@
     "test",
     "tests"
   ],
-  "keywords": [],
+  "keywords": [
+    "parrot",
+    "ajax",
+    "backend",
+    "url"
+  ],
   "license": "MIT",
   "main": "dist/parrot.ajax.js",
   "repository": "parrotjs/parrot-boilerplate"
