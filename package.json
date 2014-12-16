@@ -27,6 +27,7 @@
   "homepage": "https://github.com/parrotjs/parrot-module-ajax",
   "keywords": [
     "parrot",
+    "module",
     "ajax",
     "backend",
     "url"
