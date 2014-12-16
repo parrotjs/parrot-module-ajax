@@ -1,7 +1,7 @@
 {
-  "name": "parrot-boilerplate",
-  "description": "Basic scaffold for create a parrot module.",
-  "version": "0.12.14",
+  "name": "parrot-module-ajax",
+  "description": "Make easy do AJAX petitions with different backend. Using with URL module for better experience.",
+  "version": "0.12.16",
   "author": {
     "name": "Kiko Beats",
     "email": "josefrancisco.verdu@gmail.com",
@@ -24,9 +24,9 @@
   "engines": {
     "node": "*"
   },
-  "homepage": "https://github.com/parrotjs/parrot-boilerplate",
+  "homepage": "https://github.com/parrotjs/parrot-module-ajax",
   "keywords": [],
   "license": "MIT",
   "main": "./index.js",
-  "repository": "parrotjs/parrot-boilerplate"
+  "repository": "parrotjs/parrot-module-ajax"
 }

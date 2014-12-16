@@ -4,7 +4,6 @@
 node_modules
 npm-debug.log
 
-
 ############################
 # tmp, editor & OS files
 ############################
@@ -19,15 +18,16 @@ npm-debug.log
 .idea
 nbproject
 
-
 ############################
 # Tests
 ############################
 testApp
 coverage
 
-
 ############################
 # Other
 ############################
 .node_history
+dist/parrot.develop.js
+dist/parrot.*.develop.js
+components

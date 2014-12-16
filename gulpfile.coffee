@@ -16,13 +16,13 @@ pkg        = require './package.json'
 
 path =
   core:
-    src      : 'source/parrot.myModule.coffee'
-    debug    : 'parrot.myModule.develop.js'
-    standard : 'parrot.myModule.js'
+    src      : 'source/parrot.ajax.coffee'
+    debug    : 'parrot.ajax.develop.js'
+    standard : 'parrot.ajax.js'
     dist     : 'dist'
 
   test:
-    src   : 'test/source/test.myModule.coffee'
+    src   : 'test/source/test.ajax.coffee'
     dist  : 'test/dist'
     index : 'test/index.html'
 
